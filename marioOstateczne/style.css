@@ -1,0 +1,71 @@
+body {
+    color: #001028;
+    background: #FFFFFF; 
+    font-family: Arial, sans-serif; 
+    font-size: 12px; 
+    font-family: Arial;
+    max-width: 600px;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  
+  header {
+    padding: 10px 0;
+    margin-bottom: 30px;
+  }
+  
+  form table {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  
+  
+  h1 {
+    border-top: 1px solid  #5D6975;
+    border-bottom: 1px solid  #5D6975;
+    color: #5D6975;
+    font-size: 2.4em;
+    line-height: 1.4em;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  
+  main table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 20px;
+  }
+  
+  main table tr:nth-child(2n-1) td {
+    background: #F5F5F5;
+  }
+  
+  main table th {
+    padding: 5px 20px;
+    color: #5D6975;
+    border-bottom: 1px solid #C1CED9;
+    white-space: nowrap;        
+    font-weight: normal;
+  }
+  
+  main table .lp {
+    text-align: right;
+  }
+  
+  main table .nazwa {
+    text-align: right;
+  }
+  
+  main table td, main table th {
+    padding: 20px;
+    text-align: right;
+    font-size: 1.2em;
+  }
+  
+  main table td.razem {
+    border-top: 1px solid #5D6975;;
+  }
+  
